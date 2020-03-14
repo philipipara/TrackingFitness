@@ -23,5 +23,5 @@ app.use(HTMLroutes);
 
 // Start the server
 app.listen(PORT, () => {
-  console.log(`App running on port ${PORT}!`);
+  console.log(`App running on port 3000!`);
 });
