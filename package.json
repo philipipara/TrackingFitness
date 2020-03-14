@@ -1,0 +1,29 @@
+{
+  "name": "workout",
+  "version": "1.0.0",
+  "description": "Record exercises and save them to various work outs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeders/seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipipara/TrackingFitness.git"
+  },
+  "author": "Philip",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/philipipara/TrackingFitness/issues"
+  },
+  "homepage": "https://github.com/philipipara/TrackingFitness#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.4",
+    "morgan": "^1.9.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
