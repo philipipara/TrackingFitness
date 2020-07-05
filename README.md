@@ -6,10 +6,10 @@ dumbbells for arms then the next week want to increase weight and do not remembe
 week prior, this will help track the progress. Furthermore, if a user did not finish a workout can come back
 and complete it. 
 
-<h4>To run the app clone the repo.</h4>
-<h4>Once cloned cd into "TrackingFitness".</h4>
-<h4>Then npm install</h4>
-<h4>Npm Start</h4>
+*<h4>To run the app clone the repo.</h4>
+*<h4>Once cloned cd into "TrackingFitness".</h4>
+*<h4>Then npm install</h4>
+*<h4>Npm Start</h4>
 
 ![Sample](https://github.com/philipipara/Store-App/blob/master/client/src/user/sample.png)
 
