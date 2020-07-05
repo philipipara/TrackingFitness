@@ -11,7 +11,7 @@ and complete it.
 <h4>Then npm install</h4>
 <h4>Npm Start</h4>
 
-[!Sample](https://github.com/philipipara/Store-App/blob/master/client/src/user/sample.png)
+![Sample](https://github.com/philipipara/Store-App/blob/master/client/src/user/sample.png)
 
 
 
