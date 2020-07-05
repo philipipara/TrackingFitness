@@ -11,7 +11,7 @@ Once cloned cd into "TrackingFitness".
 Then npm install
 Npm Start
 
-
+[!Sample](https://github.com/philipipara/Store-App/blob/master/client/src/user/sample.png)
 
 
 
