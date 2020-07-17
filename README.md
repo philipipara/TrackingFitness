@@ -6,6 +6,14 @@ dumbbells for arms then the next week want to increase weight and do not remembe
 week prior, this will help track the progress. Furthermore, if a user did not finish a workout can come back
 and complete it. 
 
+* To run the app clone the repo.
+* Once cloned cd into "TrackingFitness".
+* Then npm install
+* Npm Start
+
+![Sample](https://github.com/philipipara/Store-App/blob/master/client/src/user/sample.png)
+
+
 
 
 Find it on Heroku: https://werk-out-tracker.herokuapp.com/ 
